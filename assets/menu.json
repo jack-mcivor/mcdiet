@@ -1,0 +1,604 @@
+{
+    "The Gourmet Mix": {
+        "price": 32,
+        "foods": {
+            "almightyangusburger": 1,
+            "caramel-sundae": 2,
+            "chicken-bacon-deluxe": 1,
+            "coke": 2
+        }
+    },
+    "The Family Pack": {
+        "price": 30,
+        "foods": {
+            "big-mac": 1,
+            "cheeseburger": 2,
+            "coke": 2,
+            "fries": 2,
+            "quarter-pounder": 1,
+            "small-fries": 2
+        }
+    },
+    "The Cheeseburger Stack": {
+        "price": 30,
+        "foods": {
+            "cheeseburger": 10
+        }
+    },
+    "Mates Snack Pack": {
+        "price": 24,
+        "foods": {
+            "cheeseburger": 4,
+            "fries": 4
+        }
+    },
+    "Chicken McNuggets - 20pc": {
+        "price": 15.3,
+        "foods": {
+            "chicken-mcnuggets": 20
+        }
+    },
+    "The Big Cheese Combo": {
+        "price": 15,
+        "foods": {
+            "big-cheese": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Homestyle Angus Combo": {
+        "price": 14.5,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "homestyle-angus": 1
+        }
+    },
+    "Chicken & Chorizo Combo": {
+        "price": 14.3,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "spicy-chorizo-chicken": 1
+        }
+    },
+    "The Almighty Angus 1/2 lb Combo": {
+        "price": 14.2,
+        "foods": {
+            "almightyangusburger": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Warm Chicken Salad Combo": {
+        "price": 14.1,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "grilled-warm-chicken-salad": 1
+        }
+    },
+    "Chicken Bacon Deluxe Combo": {
+        "price": 13.5,
+        "foods": {
+            "chicken-bacon-deluxe": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Chicken, Aioli McWrap Combo": {
+        "price": 13.5,
+        "foods": {
+            "chicken-mcwrap-aioli-grilled": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Chicken Caesar McWrap Combo": {
+        "price": 13.5,
+        "foods": {
+            "chicken-mcwrap-caesar-grilled": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "The Boss Combo": {
+        "price": 13.3,
+        "foods": {
+            "boss": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "The Serious Angus Combo": {
+        "price": 13.3,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "seriousangusburger": 1
+        }
+    },
+    "Double Quarter Pounder Combo": {
+        "price": 12.7,
+        "foods": {
+            "coke": 1,
+            "double-quarter-pounder": 1,
+            "fries": 1
+        }
+    },
+    "Chicken Big Mac Combo": {
+        "price": 12.7,
+        "foods": {
+            "chicken-big-mac-0": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Double McChicken Combo": {
+        "price": 12.6,
+        "foods": {}
+    },
+    "Mega Mac Combo": {
+        "price": 12.4,
+        "foods": {}
+    },
+    "Chicken McNuggets Combo - 10pc": {
+        "price": 12.2,
+        "foods": {
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Double Filet-o-Fish Combo": {
+        "price": 11.9,
+        "foods": {}
+    },
+    "The Big Cheese": {
+        "price": 11.9,
+        "foods": {
+            "big-cheese": 1
+        }
+    },
+    "Homestyle Angus": {
+        "price": 11.5,
+        "foods": {
+            "homestyle-angus": 1
+        }
+    },
+    "Chicken & Chorizo": {
+        "price": 11.3,
+        "foods": {
+            "spicy-chorizo-chicken": 1
+        }
+    },
+    "The Almighty Angus 1/2 lb": {
+        "price": 11.2,
+        "foods": {
+            "almightyangusburger": 1
+        }
+    },
+    "Warm Chicken Salad": {
+        "price": 11.1,
+        "foods": {
+            "grilled-warm-chicken-salad": 1
+        }
+    },
+    "The Dessert Pack": {
+        "price": 11,
+        "foods": {
+            "apple-pie": 2,
+            "caramel-sundae": 2
+        }
+    },
+    "Quarter Pounder Combo": {
+        "price": 10.8,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "quarter-pounder": 1
+        }
+    },
+    "Big Mac Combo": {
+        "price": 10.7,
+        "foods": {
+            "big-mac": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Chicken Bacon Deluxe": {
+        "price": 10.5,
+        "foods": {
+            "chicken-bacon-deluxe": 1
+        }
+    },
+    "McChicken Combo": {
+        "price": 10.3,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "mcchicken": 1
+        }
+    },
+    "The Serious Angus": {
+        "price": 10.2,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "seriousangusburger": 1
+        }
+    },
+    "Filet-o-Fish Combo": {
+        "price": 10,
+        "foods": {
+            "coke": 1,
+            "filet-o-fish": 1,
+            "fries": 1
+        }
+    },
+    "Chicken, Aioli McWrap": {
+        "price": 9.8,
+        "foods": {
+            "chicken-mcwrap-aioli-grilled": 1
+        }
+    },
+    "Chicken Caesar McWrap": {
+        "price": 9.8,
+        "foods": {
+            "chicken-mcwrap-caesar-grilled": 1
+        }
+    },
+    "The Boss": {
+        "price": 9.5,
+        "foods": {
+            "boss": 1
+        }
+    },
+    "Double Quarter Pounder": {
+        "price": 9.4,
+        "foods": {
+            "double-quarter-pounder": 1
+        }
+    },
+    "Mega Mac": {
+        "price": 9.2,
+        "foods": {}
+    },
+    "Double McChicken": {
+        "price": 9.2,
+        "foods": {}
+    },
+    "Triple Cheeseburger Combo": {
+        "price": 9.1,
+        "foods": {}
+    },
+    "Chicken McNuggets - 10pc": {
+        "price": 8.8,
+        "foods": {
+            "chicken-mcnuggets": 10
+        }
+    },
+    "Chicken McNuggets Happy Meal - 6pc": {
+        "price": 8.8,
+        "foods": {
+            "chicken-mcnuggets": 6,
+            "coke": 1,
+            "small-fries": 1
+        }
+    },
+    "Chicken Big Mac": {
+        "price": 8.8,
+        "foods": {
+            "chicken-big-mac-0": 1
+        }
+    },
+    "Steak Mince 'N' Cheese Georgie Pie Combo": {
+        "price": 8.5,
+        "foods": {
+            "coke": 1,
+            "fries": 1,
+            "georgie-pie-steak-mince-n-cheese-pie": 1
+        }
+    },
+    "Double Filet-o-Fish": {
+        "price": 8.1,
+        "foods": {}
+    },
+    "Double Cheeseburger Combo": {
+        "price": 7.9,
+        "foods": {}
+    },
+    "Cheeseburger Combo": {
+        "price": 7.2,
+        "foods": {
+            "cheeseburger": 1,
+            "coke": 1,
+            "fries": 1
+        }
+    },
+    "Quarter Pounder": {
+        "price": 6.9,
+        "foods": {
+            "quarter-pounder": 1
+        }
+    },
+    "Chicken McNuggets - 6pc": {
+        "price": 6.9,
+        "foods": {
+            "chicken-mcnuggets": 6
+        }
+    },
+    "McChicken": {
+        "price": 6.8,
+        "foods": {
+            "mcchicken": 1
+        }
+    },
+    "Big Mac": {
+        "price": 6.8,
+        "foods": {
+            "big-mac": 1
+        }
+    },
+    "NYC Benedict Bagel": {
+        "price": 6.7,
+        "foods": {
+            "nyc-benedict-bagel": 1
+        }
+    },
+    "Triple Cheeseburger": {
+        "price": 6.6,
+        "foods": {}
+    },
+    "Hamburger Combo": {
+        "price": 6.5,
+        "foods": {
+            "hamburger": 1
+        }
+    },
+    "Cheeseburger Happy Meal": {
+        "price": 6.4,
+        "foods": {
+            "cheeseburger": 1,
+            "coke": 1,
+            "small-fries": 1
+        }
+    },
+    "Chicken McNuggets Happy Meal - 3pc": {
+        "price": 6.4,
+        "foods": {
+            "chicken-mcnuggets": 3,
+            "coke": 1,
+            "small-fries": 1
+        }
+    },
+    "Chicken Snack Wrap Happy Meal": {
+        "price": 6.4,
+        "foods": {
+            "coke": 1,
+            "grilled-chicken-snack-wrap": 1,
+            "small-fries": 1
+        }
+    },
+    "Hamburger Happy Meal": {
+        "price": 6.4,
+        "foods": {
+            "coke": 1,
+            "hamburger": 1,
+            "small-fries": 1
+        }
+    },
+    "McFish Happy Meal": {
+        "price": 6.4,
+        "foods": {}
+    },
+    "BLT Bagel": {
+        "price": 6.3,
+        "foods": {
+            "blt-bagel": 1
+        }
+    },
+    "Filet-o-Fish": {
+        "price": 6.1,
+        "foods": {
+            "filet-o-fish": 1
+        }
+    },
+    "Bacon & Egg McMuffin": {
+        "price": 6,
+        "foods": {
+            "bacon-egg-mcmuffin": 1
+        }
+    },
+    "Hotcakes": {
+        "price": 5.7,
+        "foods": {
+            "hotcake": 1,
+            "hotcake-syrup": 2,
+            "whipped-butter": 1
+        }
+    },
+    "Steak Mince 'N' Cheese Georgie Pie": {
+        "price": 5.3,
+        "foods": {
+            "georgie-pie-steak-mince-n-cheese-pie": 1
+        }
+    },
+    "McFlurry": {
+        "price": 5,
+        "foods": {
+            "mini-mm-mcflurry": 1
+        }
+    },
+    "Cappuccino": {
+        "price": 4.6,
+        "foods": {}
+    },
+    "Flat White": {
+        "price": 4.6,
+        "foods": {}
+    },
+    "Mocha": {
+        "price": 4.6,
+        "foods": {}
+    },
+    "Latte": {
+        "price": 4.6,
+        "foods": {}
+    },
+    "Hot Chocolate (McCafé®)": {
+        "price": 4.6,
+        "foods": {}
+    },
+    "Double Cheeseburger": {
+        "price": 4.5,
+        "foods": {}
+    },
+    "Sundaes": {
+        "price": 4.3,
+        "foods": {
+            "caramel-sundae": 1
+        }
+    },
+    "Snack Wrap": {
+        "price": 4.3,
+        "foods": {
+            "grilled-chicken-snack-wrap": 1
+        }
+    },
+    "Long Black": {
+        "price": 3.9,
+        "foods": {}
+    },
+    "Espresso": {
+        "price": 3.9,
+        "foods": {}
+    },
+    "Macchiato": {
+        "price": 3.9,
+        "foods": {}
+    },
+    "Keri Orange Juice": {
+        "price": 3.9,
+        "foods": {
+            "keri-orange-juice": 1
+        }
+    },
+    "Hot Apple Pie with Soft Serve": {
+        "price": 3.8,
+        "foods": {
+            "apple-pie": 1,
+            "soft-serve-cone": 1
+        }
+    },
+    "Fries": {
+        "price": 3.6,
+        "foods": {
+            "fries": 1
+        }
+    },
+    "Cheeseburger": {
+        "price": 3.6,
+        "foods": {
+            "cheeseburger": 1
+        }
+    },
+    "Shakes": {
+        "price": 3.6,
+        "foods": {
+            "chocolate-shake": 1
+        }
+    },
+    "Soft Drinks": {
+        "price": 3.4,
+        "foods": {
+            "coke": 1
+        }
+    },
+    "FUZE® Peach Iced Tea": {
+        "price": 3.4,
+        "foods": {
+            "fuze-tea-peach-flavoured": 1
+        }
+    },
+    "Hamburger": {
+        "price": 3.2,
+        "foods": {
+            "hamburger": 1
+        }
+    },
+    "Chicken McBites 10pc": {
+        "price": 3,
+        "foods": {
+            "chicken-mcbites": 1
+        }
+    },
+    "Garden Salad": {
+        "price": 3,
+        "foods": {
+            "garden-salad": 1
+        }
+    },
+    "Keri Apple Blackcurrant Fruit Drink": {
+        "price": 2.9,
+        "foods": {}
+    },
+    "Hot Apple Pie": {
+        "price": 2.8,
+        "foods": {
+            "apple-pie": 1
+        }
+    },
+    "Mini Pump": {
+        "price": 2.8,
+        "foods": {
+            "pump-mini-water": 1
+        }
+    },
+    "Fruit Bag": {
+        "price": 2.7,
+        "foods": {
+            "fruit-bag": 1
+        }
+    },
+    "Hash Brown": {
+        "price": 2.7,
+        "foods": {
+            "hash-brown": 1
+        }
+    },
+    "Extra Book or Toy": {
+        "price": 2.5,
+        "foods": {}
+    },
+    "Kiwi Blue Water 600ml": {
+        "price": 2,
+        "foods": {
+            "kiwi-blue-600ml-water": 1
+        }
+    },
+    "Barbeque Sauce": {
+        "price": 0.5,
+        "foods": {
+            "barbeque-sauce": 1
+        }
+    },
+    "Sweet 'n Sour Sauce": {
+        "price": 0.5,
+        "foods": {
+            "sweet-n-sour-sauce": 1
+        }
+    },
+    "Ketchup Sachet": {
+        "price": 0.3,
+        "foods": {
+            "ketchup-sauce": 1
+        }
+    },
+    "Mayonnaise Sachet": {
+        "price": 0.3,
+        "foods": {
+            "mayonnaise": 1
+        }
+    }
+}

@@ -1,0 +1,472 @@
+{
+    "almightyangusburger": {
+        "carbs": 50.5,
+        "cals": 1010,
+        "kjs": 4200,
+        "fat": 62.6,
+        "protein": 58.6,
+        "sat": 27.9,
+        "sodium": 1430,
+        "sugar": 12.3
+    },
+    "apple-pie": {
+        "carbs": 26.7,
+        "cals": 235,
+        "kjs": 985,
+        "fat": 12.9,
+        "protein": 2.2,
+        "sat": 4.3,
+        "sodium": 366,
+        "sugar": 10
+    },
+    "bacon-egg-mcmuffin": {
+        "carbs": 24.7,
+        "cals": 300,
+        "kjs": 1260,
+        "fat": 13.9,
+        "protein": 18.1,
+        "sat": 5.7,
+        "sodium": 746,
+        "sugar": 2.7
+    },
+    "barbeque-sauce": {
+        "carbs": 9.7,
+        "cals": 44,
+        "kjs": 185,
+        "fat": 0.3,
+        "protein": 0.3,
+        "sat": 0.3,
+        "sodium": 158,
+        "sugar": 8.7
+    },
+    "big-cheese": {
+        "carbs": 45.1,
+        "cals": 1060,
+        "kjs": 4430,
+        "fat": 68.5,
+        "protein": 65.2,
+        "sat": 33.4,
+        "sodium": 1540,
+        "sugar": 15.4
+    },
+    "big-mac": {
+        "carbs": 36.8,
+        "cals": 494,
+        "kjs": 2070,
+        "fat": 25.9,
+        "protein": 26.4,
+        "sat": 9.9,
+        "sodium": 966,
+        "sugar": 5.6
+    },
+    "blt-bagel": {
+        "carbs": 48.7,
+        "cals": 353,
+        "kjs": 1470,
+        "fat": 11.1,
+        "protein": 12.3,
+        "sat": 2.3,
+        "sodium": 748,
+        "sugar": 5.4
+    },
+    "boss": {
+        "carbs": 32.1,
+        "cals": 818,
+        "kjs": 3410,
+        "fat": 52.7,
+        "protein": 51.7,
+        "sat": 24.1,
+        "sodium": 1130,
+        "sugar": 7.7
+    },
+    "caramel-sundae": {
+        "carbs": 59.7,
+        "cals": 340,
+        "kjs": 1430,
+        "fat": 8.6,
+        "protein": 6.6,
+        "sat": 5.1,
+        "sodium": 150,
+        "sugar": 42.5
+    },
+    "cheeseburger": {
+        "carbs": 24.2,
+        "cals": 265,
+        "kjs": 1110,
+        "fat": 11.6,
+        "protein": 14.9,
+        "sat": 5.6,
+        "sodium": 688,
+        "sugar": 4.6
+    },
+    "chicken-bacon-deluxe": {
+        "carbs": 52.9,
+        "cals": 702,
+        "kjs": 2940,
+        "fat": 37.6,
+        "protein": 36,
+        "sat": 9.1,
+        "sodium": 1590,
+        "sugar": 4.7
+    },
+    "chicken-big-mac-0": {
+        "carbs": 0,
+        "cals": 0,
+        "kjs": 0,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 0,
+        "sugar": 0
+    },
+    "chicken-mcbites": {
+        "carbs": 8.4,
+        "cals": 158,
+        "kjs": 661,
+        "fat": 9,
+        "protein": 10.6,
+        "sat": 1.5,
+        "sodium": 453,
+        "sugar": 0.5
+    },
+    "chicken-mcnuggets": {
+        "carbs": 5.7,
+        "cals": 134,
+        "kjs": 564,
+        "fat": 9.5,
+        "protein": 6.5,
+        "sat": 1.9,
+        "sodium": 205,
+        "sugar": 0.2
+    },
+    "chicken-mcwrap-aioli-grilled": {
+        "carbs": 0,
+        "cals": 0,
+        "kjs": 0,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 0,
+        "sugar": 0
+    },
+    "chicken-mcwrap-caesar-grilled": {
+        "carbs": 0,
+        "cals": 0,
+        "kjs": 0,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 0,
+        "sugar": 0
+    },
+    "chocolate-shake": {
+        "carbs": 48.8,
+        "cals": 303,
+        "kjs": 1270,
+        "fat": 7.5,
+        "protein": 9,
+        "sat": 4.6,
+        "sodium": 189,
+        "sugar": 43.5
+    },
+    "coke": {
+        "carbs": 24.3,
+        "cals": 99,
+        "kjs": 412,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 22,
+        "sugar": 24.3
+    },
+    "double-quarter-pounder": {
+        "carbs": 30.7,
+        "cals": 785,
+        "kjs": 3280,
+        "fat": 50.2,
+        "protein": 51.3,
+        "sat": 25,
+        "sodium": 1400,
+        "sugar": 6.5
+    },
+    "filet-o-fish": {
+        "carbs": 30.9,
+        "cals": 319,
+        "kjs": 1330,
+        "fat": 14.5,
+        "protein": 15.1,
+        "sat": 2.6,
+        "sodium": 587,
+        "sugar": 3.3
+    },
+    "fries": {
+        "carbs": 25.7,
+        "cals": 231,
+        "kjs": 967,
+        "fat": 12.2,
+        "protein": 3.6,
+        "sat": 1,
+        "sodium": 222,
+        "sugar": 0.4
+    },
+    "fruit-bag": {
+        "carbs": 8.5,
+        "cals": 41,
+        "kjs": 174,
+        "fat": 0.2,
+        "protein": 0.3,
+        "sat": 0.1,
+        "sodium": 2,
+        "sugar": 7.9
+    },
+    "fuze-tea-peach-flavoured": {
+        "carbs": 9,
+        "cals": 39,
+        "kjs": 165,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 23,
+        "sugar": 9
+    },
+    "garden-salad": {
+        "carbs": 3.1,
+        "cals": 22,
+        "kjs": 93,
+        "fat": 0.1,
+        "protein": 1.4,
+        "sat": 0.1,
+        "sodium": 5,
+        "sugar": 2.2
+    },
+    "georgie-pie-steak-mince-n-cheese-pie": {
+        "carbs": 42,
+        "cals": 569,
+        "kjs": 2370,
+        "fat": 37.1,
+        "protein": 14.8,
+        "sat": 21.1,
+        "sodium": 931,
+        "sugar": 4
+    },
+    "grilled-chicken-snack-wrap": {
+        "carbs": 20,
+        "cals": 218,
+        "kjs": 976,
+        "fat": 8.1,
+        "protein": 14.3,
+        "sat": 1.2,
+        "sodium": 404,
+        "sugar": 1.6
+    },
+    "grilled-warm-chicken-salad": {
+        "carbs": 9.1,
+        "cals": 169,
+        "kjs": 706,
+        "fat": 3.2,
+        "protein": 22.8,
+        "sat": 0.7,
+        "sodium": 447,
+        "sugar": 7.6
+    },
+    "hamburger": {
+        "carbs": 23.4,
+        "cals": 218,
+        "kjs": 910,
+        "fat": 7.9,
+        "protein": 12,
+        "sat": 3.1,
+        "sodium": 525,
+        "sugar": 4.3
+    },
+    "hash-brown": {
+        "carbs": 11.8,
+        "cals": 137,
+        "kjs": 571,
+        "fat": 8.9,
+        "protein": 1.6,
+        "sat": 0.7,
+        "sodium": 285,
+        "sugar": 0.3
+    },
+    "homestyle-angus": {
+        "carbs": 59,
+        "cals": 841,
+        "kjs": 3520,
+        "fat": 48.5,
+        "protein": 40.1,
+        "sat": 17.9,
+        "sodium": 1240,
+        "sugar": 17
+    },
+    "hotcake": {
+        "carbs": 51.3,
+        "cals": 329,
+        "kjs": 1370,
+        "fat": 8.8,
+        "protein": 8.6,
+        "sat": 1.8,
+        "sodium": 461,
+        "sugar": 13.2
+    },
+    "hotcake-syrup": {
+        "carbs": 44.7,
+        "cals": 182,
+        "kjs": 761,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 18,
+        "sugar": 32.2
+    },
+    "keri-orange-juice": {
+        "carbs": 31.6,
+        "cals": 149,
+        "kjs": 625,
+        "fat": 0.2,
+        "protein": 2.2,
+        "sat": 0,
+        "sodium": 3,
+        "sugar": 30.4
+    },
+    "ketchup-sauce": {
+        "carbs": 2.3,
+        "cals": 10,
+        "kjs": 43,
+        "fat": 0,
+        "protein": 0.1,
+        "sat": 0,
+        "sodium": 88,
+        "sugar": 1.8
+    },
+    "kiwi-blue-600ml-water": {
+        "carbs": 0,
+        "cals": 0,
+        "kjs": 0,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 3,
+        "sugar": 0
+    },
+    "mayonnaise": {
+        "carbs": 0.2,
+        "cals": 89,
+        "kjs": 371,
+        "fat": 9.8,
+        "protein": 0.1,
+        "sat": 1.6,
+        "sodium": 63,
+        "sugar": 0.1
+    },
+    "mcchicken": {
+        "carbs": 34.4,
+        "cals": 367,
+        "kjs": 1530,
+        "fat": 17.1,
+        "protein": 16.6,
+        "sat": 3.3,
+        "sodium": 893,
+        "sugar": 3.7
+    },
+    "mini-mm-mcflurry": {
+        "carbs": 83.2,
+        "cals": 537,
+        "kjs": 2260,
+        "fat": 18.4,
+        "protein": 9,
+        "sat": 11.9,
+        "sodium": 170,
+        "sugar": 70.4
+    },
+    "nyc-benedict-bagel": {
+        "carbs": 48.2,
+        "cals": 526,
+        "kjs": 2200,
+        "fat": 25.7,
+        "protein": 24.3,
+        "sat": 7.9,
+        "sodium": 839,
+        "sugar": 5
+    },
+    "pump-mini-water": {
+        "carbs": 0,
+        "cals": 0,
+        "kjs": 0,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 3,
+        "sugar": 0
+    },
+    "quarter-pounder": {
+        "carbs": 29.2,
+        "cals": 490,
+        "kjs": 2050,
+        "fat": 27.8,
+        "protein": 29.2,
+        "sat": 13.7,
+        "sodium": 1010,
+        "sugar": 6
+    },
+    "seriousangusburger": {
+        "carbs": 43.1,
+        "cals": 714,
+        "kjs": 2980,
+        "fat": 42,
+        "protein": 39.4,
+        "sat": 18.2,
+        "sodium": 1310,
+        "sugar": 6
+    },
+    "small-fries": {
+        "carbs": 27.4,
+        "cals": 243,
+        "kjs": 1010,
+        "fat": 13,
+        "protein": 2.9,
+        "sat": 1.4,
+        "sodium": 310,
+        "sugar": 0.4
+    },
+    "soft-serve-cone": {
+        "carbs": 21,
+        "cals": 141,
+        "kjs": 591,
+        "fat": 4.4,
+        "protein": 4.1,
+        "sat": 2.6,
+        "sodium": 52,
+        "sugar": 16.4
+    },
+    "spicy-chorizo-chicken": {
+        "carbs": 0,
+        "cals": 0,
+        "kjs": 0,
+        "fat": 0,
+        "protein": 0,
+        "sat": 0,
+        "sodium": 0,
+        "sugar": 0
+    },
+    "sweet-n-sour-sauce": {
+        "carbs": 11.1,
+        "cals": 49,
+        "kjs": 208,
+        "fat": 0.3,
+        "protein": 0.3,
+        "sat": 0.3,
+        "sodium": 123,
+        "sugar": 10.5
+    },
+    "whipped-butter": {
+        "carbs": 0.1,
+        "cals": 40,
+        "kjs": 169,
+        "fat": 4.5,
+        "protein": 0.1,
+        "sat": 3,
+        "sodium": 40,
+        "sugar": 0.1
+    }
+}
