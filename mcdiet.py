@@ -3,7 +3,7 @@ from collections import defaultdict
 from pprint import pprint
 
 from pkg_resources import resource_filename
-from pulp import LpMinimize, LpProblem, LpVariable, lpSum, value, LpStatus
+from pulp import LpMinimize, LpProblem, LpStatus, LpVariable, lpSum, value
 
 # https://en.wikibooks.org/wiki/Fundamentals_of_Human_Nutrition/Average_Macronutrient_Distribution_Range
 # https://nutritionfoundation.org.nz/nutrition-facts/minerals/sodium
@@ -50,25 +50,25 @@ class DietProblem:
         """Create, formulate and solve the diet problem for given constraints
         """
         self.prob = prob = LpProblem(__class__, LpMinimize)
-        
+
         # Variables
         self.xm = xm = LpVariable.dicts('meals', self.meals, 0, max_menu_item, cat='Integer')
         self.xf = xf = LpVariable.dicts('foods', self.foods, 0, max_food_item, cat='Integer')
-        
+
         # Objective
         prob += lpSum(self.menu[i]['price']*xm[i] for i in self.meals)
 
         # Ensure that foods eaten are available under meals bought
         for j in self.foods:
             prob += lpSum([self.menu[i]['foods'].get(j, 0)*xm[i] for i in self.meals]) >= xf[j]
-        
+
         # Must meet nutrition
         for r, (lower, upper) in nutrition.items():
             if lower:
                 prob += lpSum([xf[i]*self.nutr[i][r] for i in self.foods]) >= lower
             if upper:
                 prob += lpSum([xf[i]*self.nutr[i][r] for i in self.foods]) <= upper
-        
+
         if include:
             for food in include:
                 prob += xf[food] >= 1
@@ -90,6 +90,7 @@ class DietProblem:
 
         solution = self.parse_solution()
         self.history.append(solution)
+        return solution
 
     def parse_solution(self):
         cost = round(value(self.prob.objective), 2)
@@ -110,19 +111,18 @@ class DietProblem:
                     eats[food] -= n_reported
                     foods.append({'food': food, 'available': n_available, 'eat': n_reported})
 
-                solution['purchase'].append({'meal': meal, 
+                solution['purchase'].append({'meal': meal,
                                              'bought': n_bought,
                                              'foods': foods})
-        
+
         # Optional: check there are no remaining foods to eat
         for i, n_eaten in eats.items():
             assert n_eaten == 0, i
 
         return solution
-                    
+
 
     def print_last_solution(self):
         """Simple way of printing the solution
         """
         pprint(self.history[-1])
- 
